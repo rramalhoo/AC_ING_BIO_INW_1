@@ -175,7 +175,7 @@ footer a{
 
 @media (max-width: 1200px) {
     .img img {
-        max-width: 100px; 
+        max-width: 200px; 
     }
 
     .box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9 {
@@ -189,18 +189,18 @@ footer a{
     }
 
     .oi img {
-        margin-left: 55vh; 
+        margin-left: 90vh; 
     }
 }
 
 @media (max-width: 768px) {
     header {
         height: 60px; 
-        font-size: 16px; 
+        font-size: 12px; 
     }
 
     .img img {
-        max-width: 120px; 
+        max-width: 200px; 
     }
 
     .box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9 {
@@ -210,14 +210,14 @@ footer a{
     }
 
     .oi img {
-        margin-left: 40vh; 
+        margin-left: 110vh; 
     }
 }
 
 @media (max-width: 480px) {
     header {
         height: 50px;
-        font-size: 14px; 
+        font-size: 10px; 
     }
 
     .img img {
@@ -231,7 +231,7 @@ footer a{
     }
 
     .oi img {
-        margin-left: 30vh; 
+        margin-left: 50vh; 
     }
 
     footer a {
